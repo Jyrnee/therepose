@@ -1,6 +1,4 @@
 # therepose
-
- Goal: Create a web-viewable digital archive of those that have lost/given their lives in various national events.
 <h4>Seeking Active Contributors! Email dev@jyrnee.com if you are interested!
 I will upload a very rough file structure or some of which in about a week or so. (I have a lot of research to do..)</h4>
 
